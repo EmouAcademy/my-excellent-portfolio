@@ -1,0 +1,42 @@
+project:
+  type: website
+  
+website:
+  title: "E.Munkhtsetseg"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: research-works.qmd
+        text: Research docs
+      - href: blogs.qmd
+        text: Teaching blogs
+      - href: resume.qmd
+        text: Resume
+
+    right:
+      - about.qmd
+      - icon: mortarboard
+        text: Google Scholar
+        href: https://scholar.google.com/citations?use
+      - icon: github
+        text: Github
+        href: https://github.com/EmouAcademy
+  page-footer:
+    center: |
+      [Contact Munkhuu](mailto:munkh.social@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/deepshamenghani)
+    background: "#2780e3"        
+
+format:
+  html:
+    theme: cosmo
+    code-link: true
+    code-fold: true
+    code-tools: false
+    highlight-style: github

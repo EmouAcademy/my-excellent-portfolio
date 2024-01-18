@@ -1,0 +1,20 @@
+---
+title: Research Documents
+listing: 
+  - id: lab-reports
+    contents: Lab-reports
+    type: grid
+  - id: meeting-notes
+    contents: meeting-notes
+    type: grid
+---
+
+## Lab Reports
+
+:::{#lab-reports}
+:::
+
+## Meeting Notes
+
+:::{#meeting-notes}
+:::

@@ -1,0 +1,37 @@
+---
+title: "E. Munkhtsetseg (PhD)"
+image: assets/images/profile.jpg
+about:
+  template: jolla
+  image-width: 13em
+  image-shape: round
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=0aSVVCwAAAAJ&hl=en&oi=ao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/munkhtsetseg-erdenebayar-25910a1a1/
+    - icon: github
+      text: Github
+      href: https://github.com/EmouAcademy
+    - icon: shop
+      text: Shop
+      href: https://payhip.com/EmouAcademy
+    - icon: youtube
+      text: Youtube
+      href: https://youtube.com/EmouAcademy
+    - icon: facebook
+      text: Facebook
+      href: https://facebook.com/EmouAcademy
+    - icon: youtube
+      text: Youtube
+      href: https://youtube.com/EmouAcademy
+    - icon: envelope
+      text: Contact me
+      href: mailto:munkh.social@gmail.com
+---
+
+I am a Sr. Researcher/assoc.professor at NUM, Mongolia. I have an extensive background working with meteorology, climate data sets and using research analytics to understand the relationships between climate variables on vegetation growths, and reveal surface conditions for dust emissions from Mongolian desert lands to make informed decisions.
+
+I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Rstudio environment using reticulate, and data visualizations using tidyverse and ggplot2 packages; and reviewing literatures in Scrintal shifting from PKM into idea management. I love learning new things constantly and sharing my knowledge with others in a digestible manner.

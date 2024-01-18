@@ -1,0 +1,9 @@
+---
+title: "Annual Planner 2024"
+author: "E Munkhtsetseg"
+date: "2023-10-20"
+categories: [news, time management, planner]
+image: "image.jpg"
+---
+
+A renewed version of "To Success: Annual Planner" has been published for 2024.

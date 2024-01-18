@@ -1,0 +1,15 @@
+---
+title: "A new Book got published!"
+author: "E Munkhtsetseg"
+date: "2023-10-15"
+categories: [news, book, agrometeorology]
+image: "image.jpeg"
+---
+
+Agrometeorology Textbook in Mongolian has been published in 2023 September. I had worked in this project for 3 years.
+
+-   Editors: "D Dagvadorj, D Azzaya"
+
+-   Chapters: 14
+
+Ном хэвлэлтээс гарч та бүхний гарт очиход бэлэн болсныг дуулгахад таатай байна. Номын захиалга өгөх болон нэмэлт мэдээллийг авах бол чатаар холбогдоорой. Анхны нүүр эскиз бага зэрэг өөрчлөгдсөн байгаа. Энэ дор хавсаргасан зураг бодит хэвлэлтээс гарсан номын зураг болноо. Баярлалаа. #Хөдөө_аж_ахуйн_цаг_уур

@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/research-works.html",
+    "items": [
+      "/Lab-reports/welcome/index.html",
+      "/meeting-notes/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/2024 annual diary is published/index.html",
+      "/projects/A new book/index.html"
+    ]
+  },
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/posts/welcome/index.html"
+    ]
+  }
+]
