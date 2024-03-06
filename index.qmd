@@ -1,5 +1,5 @@
 ---
-title: "E. Munkhtsetseg (PhD)"
+title: "E. Munkhtsetseg (PhD, assoc.prof)"
 image: assets/images/profile.jpg
 about:
   template: jolla

@@ -4,8 +4,18 @@ author: "E Munkhtsetseg"
 date: "2024-01-15"
 categories: [news]
 ---
-
+## Greeting
 This is the first post in a Quarto blog. Welcome!
+If you interest to create a similar site, please visit below sites
+
+### Further readings
+1) Quarto 
+https://quarto.org/
+2)　Quarto Pub Manuscript
+https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/
+3) Blogs written by communities:
+https://jadeyryan.com/
+
 
 ![](thumbnail.jpg)
 

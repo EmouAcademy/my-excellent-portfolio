@@ -1,7 +1,7 @@
 - source: project
   quarto-pub:
     - id: 0624d1f1-db80-462e-aa7c-781cb93dac8f
-      url: 'https://munkuu.quarto.pub/emunkhtsetseg'
+      url: 'https://munkuu.quarto.pub/portfolio'
   netlify:
     - id: 510d7913-5599-46c7-938e-abc38f437fc3
-      url: 'https://peppy-lollipop-a375e6.netlify.app'
+      url: 'https://emunkhtsetseg.netlify.app'
